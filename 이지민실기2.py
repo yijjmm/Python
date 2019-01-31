@@ -40,4 +40,4 @@ for i in range(2):
     lst.append(weight)
     d.append(lst)
 
-print(display_member(d))
+display_member(d)
