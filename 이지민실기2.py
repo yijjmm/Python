@@ -19,7 +19,7 @@ def input_addinfo(info1, info2):
     return [info1, info2]
 
 
-def display_member(member): #약간 미완
+def display_member(member):
     for j in range(2):
         weight_a = d[j][1]
         height_a = d[j][2]
