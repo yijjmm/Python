@@ -1,3 +1,3 @@
-# python
+# Python
 
-hello
+2019 입학 전 파이썬 공부 코드
